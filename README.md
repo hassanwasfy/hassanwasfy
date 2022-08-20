@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-11301
-Fork on GitHub
-2866
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Hassan Wasfy</h1>
 <h3 align="center">A passionate Android Developer</h3>
 
