@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Core Java, Android Architecture, Android Studio, Design patterns.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hassanwasfy](https://github.com/hassanwasfy)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/hassanwasfy)
 
-- 📫 How to reach me **hassan12650@law.helwan.edu.eg**
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/hassanwasfy7/)
 
 - 📄 Know about my experiences [My CV](https://bit.ly/3AaMC3d)
 
