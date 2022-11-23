@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanwasfy&label=Profile%20views&color=0e75b6&style=flat" alt="hassanwasfy" /> </p>
 
-- 🔭 I’m currently working on [MyHackerRankSolution](https://github.com/hassanwasfy/MyHackerRankSolution)
+- 🔭 I’m currently working on [Zekri App](https://github.com/hassanwasfy/Zekri)
 
 - 🌱 I’m currently learning **Core Java, Android Architecture, Android Studio, Design patterns.**
 
