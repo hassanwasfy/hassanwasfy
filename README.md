@@ -1,16 +1,16 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanwasfy&label=Profile%20views&color=0e75b6&style=flat" alt="hassanwasfy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hassanwasfy&label=Profile%20views&color=ac0000&style=plastic" alt="hassanwasfy" />
+		   <img src="https://img.shields.io/github/followers/hassanwasfy?label=Followers&color=00aec3&style=plastic" alt="hassanwasfy" />
+
 
 <h1 align="center">Hi 👋, I'm Hassan Wasfy</h1>
 <h3 align="center">A passionate Android developer from Egypt</h3>
 
 - 🔭 I’m currently working on [Movie App](https://www.github.com/hassanwasfy/Movie)
-
 - 📫 How to reach me [E-mail](hassanwasfy7@gmail.com)
-
 - 📄 Know about my experiences [CV](https://bit.ly/3AaMC3d)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/hassanwasfy7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassanwasfy7" height="80" width="80" /></a>
 </p>
 
@@ -26,6 +26,10 @@
 <p align="center"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="80" height="80"/> </a>   
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="80" height="80"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" alt="photoshop" width="80" height="80"/> </a>  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/after-effects-cc.svg" alt="aftereffects" width="80" height="80"/> </a>
   
-
-
-<p align="center"> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanwasfy&show_icons=true&locale=en&layout=compact" alt="hassanwasfy" /></p></p>
+  
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Zeinab's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ZeinabAbdien00&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+  </a>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeinabAbdien00&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="ZeinabAbdien00" height="230px"/>
+<br/>
