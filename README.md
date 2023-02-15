@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hassanwasfy&label=Profile%20views&color=ac0000&style=plastic" alt="hassanwasfy" />
-		   <img src="https://img.shields.io/github/followers/hassanwasfy?label=Followers&color=00aec3&style=plastic" alt="hassanwasfy" />
+		   <img src="https://img.shields.io/github/followers/hassanwasfy?label=Followers&color=00aec3&style=plastic" alt="hassanwasfy" /> </p>
 
 
 <h1 align="center">Hi 👋, I'm Hassan Wasfy</h1>
