@@ -1,3 +1,6 @@
+![Cover Image](https://4.bp.blogspot.com/-6vGvy4vCcvE/Xdcwnaf7XzI/AAAAAAAANZM/Io2mm8SXjmUVCo60byOn-XpLUpn54nizACLcBGAsYHQ/s1600/image1.gif)
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hassanwasfy&label=Profile%20views&color=ac0000&style=plastic" alt="hassanwasfy" />
 		   <img src="https://img.shields.io/github/followers/hassanwasfy?label=Followers&color=00aec3&style=plastic" alt="hassanwasfy" /> </p>
 
@@ -27,13 +30,7 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="80" height="80"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" alt="photoshop" width="80" height="80"/> </a>  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/after-effects-cc.svg" alt="aftereffects" width="80" height="80"/> </a>
   
   
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Hassan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hassanwasfy&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
-  </a>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanwasfy&langs_count=10&show_icons=true&locale=en&theme=tokyonight"
-	     alt="hassanwasfy" height="230px"/>
-<br/>
+
 
 <p align="center">
 	<img src="{https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={hassanwasfy}&theme={dark}}" /> </p>
