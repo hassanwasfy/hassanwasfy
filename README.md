@@ -5,8 +5,12 @@
 		   <img src="https://img.shields.io/github/followers/hassanwasfy?label=Followers&color=00aec3&style=plastic" alt="hassanwasfy" /> </p>
 
 
-<h1 align="center">Hi 👋, I'm Hassan Wasfy</h1>
-<h3 align="center">A passionate Android developer from Egypt</h3>
+<p align="center">
+		<img alt="Hassan's Welcome Message"
+			 src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+Hassan+.+.+.+.">
+</p>
+
+<h3 align="center">A passionate Android apps developer</h3>
 
 - 🔭 I’m currently working on [Movie App](https://www.github.com/hassanwasfy/Movie)
 - 📫 How to reach me [E-mail](hassanwasfy7@gmail.com)
@@ -17,7 +21,7 @@
 <a href="https://linkedin.com/in/hassanwasfy7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassanwasfy7" height="80" width="80" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+## ⚡ Technologies
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="80" height="80"/> </a> 
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="80" height="80"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80" height="80"/> </a> 
   
@@ -32,6 +36,10 @@
   
 
 
-<p align="center">
-	<img src="{https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={hassanwasfy}&theme={dark}}" /> </p>
+## 📈 Github Stats
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=hassanwasfy&theme=react&hide_border=false&include_all_commits=false&count_private=true" width=400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=hassanwasfy&theme=react&hide_border=false&include_all_commits=false&count_private=true" width=400>
+</p>
 	
