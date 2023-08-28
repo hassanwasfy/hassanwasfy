@@ -2,7 +2,9 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hassanwasfy&label=Profile%20views&color=ac0000&style=plastic" alt="hassanwasfy" />
-		   <img src="https://img.shields.io/github/followers/hassanwasfy?label=Followers&color=00aec3&style=plastic" alt="hassanwasfy" /> </p>
+		   <img src="https://img.shields.io/github/followers/hassanwasfy?label=Followers&color=00aec3&style=plastic" alt="hassanwasfy" /> 
+	<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/>
+</p>
 
 
 <p align="center">
