@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [Movie App](https://www.github.com/hassanwasfy/Movie)
 - 📫 How to reach me [E-mail](hassanwasfy7@gmail.com)
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1mUKKvgtjZng_wBMZB6z_JhMtZvUOGLFi/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/10Iyjdkv2O4dCnx4qY9UMGhu55lYLfcf2/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
