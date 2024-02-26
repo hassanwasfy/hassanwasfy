@@ -12,7 +12,7 @@
 			 src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+Hassan+.+.+.+.">
 </p>
 
-<h3 align="center">A passionate Android apps developer</h3>
+<h2 align="center">A passionate Android apps developer</h3>
 
 - 🔭 I’m currently working on [Movie App](https://www.github.com/hassanwasfy/Movie)
 - 📫 How to reach me [E-mail](hassanwasfy7@gmail.com)
