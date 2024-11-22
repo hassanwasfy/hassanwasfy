@@ -14,7 +14,6 @@
 
 <h2 align="center">A passionate Android apps developer</h3>
 
-- 🔭 I’m currently working on [Movie App](https://www.github.com/hassanwasfy/Movie)
 - 📫 How to reach me [E-mail](hassanwasfy7@gmail.com)
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1uElYNF6yb1B-kniwJoDyOoUl1EGcddPE/view?usp=sharing)
 
