@@ -18,7 +18,13 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/hassanwasfy7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassanwasfy7" height="80" width="80" /></a>
+  <a href="https://linkedin.com/in/hassanwasfy7" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Add Connection with Hassan Wasfy" height="80" width="80" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:hassanwasfy7@gmail.com" target="blank">
+    <img align="center" src="https://www.svgrepo.com/show/10726/email.svg" alt="Email Hassan" height="80" width="80" />
+  </a>
 </p>
 
 ## ⚡ Technologies
