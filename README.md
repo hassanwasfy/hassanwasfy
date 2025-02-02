@@ -14,7 +14,6 @@
 
 <h2 align="center">A passionate Android apps developer</h3>
 
-- 📫 How to reach me [E-mail](hassanwasfy7@gmail.com)
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1uElYNF6yb1B-kniwJoDyOoUl1EGcddPE/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
